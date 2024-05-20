@@ -126,21 +126,6 @@ public class HRSYS {
     }
 
     public static void listStaff(Scanner keyin) {
-        /**
-         * 1. Add Company
-         * 2. Add Department
-         * 3. Add Staff
-         * 4. List Staff
-         * 5. Exit
-         * Choose operation (1-5): 4
-         * STAFF LIST RECORD
-         * No. Name IC No. Post Company-Department
-         * ----------------------------------------------------------
-         * 1 AZMI A123 CEO Farmfresh-Admin (6 months contract)
-         * 2 ROHAYA A456 Clerk Farmfresh-HR
-         * 3 ADAM A789 Accountant Jalen-Finance
-         * 4 OMAR B321 Programmer Jalen-IT (12 months contract)
-         */
 
         System.out.println("\nSTAFF LIST RECORD");
         System.out.println("\nNo. \tName \t\tIC No. \t\tPost \t\tCompany-Department");
